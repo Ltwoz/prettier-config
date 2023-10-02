@@ -9,9 +9,13 @@
     "engines": {
         "node": ">=16"
     },
+    "publishConfig": {
+        "access": "public",
+        "tag": "latest"
+    },
     "repository": {
         "type": "git",
-        "url": "git+ssh://git@github.com/Ltwoz/prettier-config.git"
+        "url": "git://github.com/Ltwoz/prettier-config.git"
     },
     "keywords": [
         "prettier",

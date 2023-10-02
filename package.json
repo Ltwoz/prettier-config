@@ -23,6 +23,9 @@
     ],
     "author": "Ltwoz",
     "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/Ltwoz/prettier-config/issues"
+    },
     "peerDependencies": {
         "prettier": ">=3"
     }

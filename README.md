@@ -13,11 +13,11 @@
 </h4>
 
 <p align="center">
-  <a href="https://www.npmjs.com/package/@untile/prettier-config">
+  <a href="https://www.npmjs.com/package/@ltwoz/prettier-config">
     <img src="https://img.shields.io/npm/v/@ltwoz/prettier-config.svg?style=for-the-badge" alt="NPM version" />
   </a>
-  <a href="https://github.com/untile/js-configs/blob/main/LICENSE">
-    <img src="https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge" alt="Ltwoz js-config is released under the MIT license." />
+  <a href="https://github.com/Ltwoz/prettier-config/blob/main/LICENSE">
+    <img src="https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge" alt="Ltwoz prettier-config is released under the MIT license." />
   </a>
 </p>
 

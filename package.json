@@ -1,0 +1,25 @@
+{
+    "name": "@ltwoz/prettier-config",
+    "version": "1.0.0",
+    "description": "Global config for Prettier",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"no tests yet.\" && exit 1"
+    },
+    "engines": {
+        "node": ">=16"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com/Ltwoz/prettier-config.git"
+    },
+    "keywords": [
+        "prettier",
+        "config"
+    ],
+    "author": "Ltwoz",
+    "license": "MIT",
+    "peerDependencies": {
+        "prettier": ">=3"
+    }
+}

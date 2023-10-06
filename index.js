@@ -3,5 +3,5 @@ module.exports = {
     "trailingComma": "es5",
     "semi": true,
     "useTabs": true,
-    "tabWidth": 4,
+    "tabWidth": 2,
 }

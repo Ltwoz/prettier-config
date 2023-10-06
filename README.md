@@ -46,5 +46,7 @@ yarn add prettier @ltwoz/prettier-config -D
 Add the following code to your `.prettierrc` file:
 
 ```json
-"prettier": "@ltwoz/prettier-config",
+{
+  "prettier": "@ltwoz/prettier-config",
+}
 ```

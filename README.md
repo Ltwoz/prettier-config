@@ -1,6 +1,6 @@
 <p align="center">
   <br>
-  <img width="250" src="https://media.discordapp.net/attachments/609919287024680961/1158301036155514970/logo-gray.png" />
+  <img width="250" src="https://github.com/Ltwoz/prettier-config/assets/87902742/a8a525f6-03a1-4bb0-90f6-97ecf434b45d" />
   <br>
 </p>
 
